@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1ac1b480-f344-4b6e-99b2-387041358740" name="Pi" url="http://192.168.43.244">
+        <fileTransfer host="192.168.43.244" port="22" rootFolder="/home/pi/Documents/Scripts" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
